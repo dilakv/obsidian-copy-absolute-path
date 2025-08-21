@@ -1,0 +1,11 @@
+{
+	"id": "copy-absolute-path",
+	"name": "Copy Absolute Path",
+	"version": "1.0.0",
+	"minAppVersion": "1.0.0",
+	"description": "Adds a context menu option to copy the absolute system path of files and folders. Supports English and Spanish automatically.",
+	"author": "dilakv",
+	"authorUrl": "https://github.com/dilakv",
+	"isDesktopOnly": false,
+	"fundingUrl": ""
+}
